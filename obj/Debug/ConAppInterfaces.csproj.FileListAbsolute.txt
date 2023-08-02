@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppInterfaces\ConAppInterfaces\bin\Debug\ConAppInterfaces.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppInterfaces\ConAppInterfaces\bin\Debug\ConAppInterfaces.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppInterfaces\ConAppInterfaces\bin\Debug\ConAppInterfaces.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppInterfaces\ConAppInterfaces\obj\Debug\ConAppInterfaces.pdb
